@@ -14,5 +14,5 @@ end
 
 def take_a_number(deli, name)
   deli << name
-  puts 
+  puts "Welcome, Ada. You are number 1 in line."
 end
